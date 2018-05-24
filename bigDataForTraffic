@@ -1,0 +1,41 @@
+The traffic data mainly comes from the following aspects:
+
+1. Massive use of cards issued by the public transport department has accumulated mass data on passengers travel. This is also a type of big data. Therefore, the public transport department calculates the traffic trip parameters of different time periods, sections, and groups, and can even create The public transport model has targeted measures to advance the preparation of response plans in various situations and scientifically allocate the capacity. Through the real-time analysis of data, the Bureau of Transportation can control the number of departures and times of buses and subways, reduce the rate of empty vehicles, and ease passenger flow to ease the pressure of urban roads; on the other hand, it can also optimize routes.
+
+2. The second source is road network monitoring. At present, the country has invested a lot in road monitoring. The construction of high-speed video surveillance points achieves full coverage of the Beijing-Tianjin region, and the number of surveillance cameras increases by 20% every year. The traffic management department pre-embedded or pre-sets the IoT sensors on the roads, collects traffic and passenger flow information in real time, integrates data from various road monitoring facilities and traffic police command and control systems, and forms a smart traffic management system, which is beneficial to traffic management departments. Improve road management capabilities, formulate preplans for evacuation and control measures, and provide early warning and traffic guidance.
+
+3. Analyze the traffic conditions of urban roads through satellite map data, and obtain real-time data of road traffic. These data can be used by traffic management departments, and can also be published at various digital terminals for travel personnel to determine their own driving directions. And road planning.
+
+4. Big data can be sourced and GPS located. The Road Transport Vehicle Dynamic Supervision and Management Measures stipulates that all transport vehicles are connected to GPS satellites, and the country can monitor the running route of vehicles in real time. Taxi is the largest user of urban roads. Through the real-time data provided by its on-board terminal or data acquisition system, the traffic conditions of almost all major roads can be known at any time. The long-term accumulation of such data forms the traffic within urban areas. The “heat map” can then be analyzed to determine what areas of the road are heavily crowded and provide a reference for travel.
+
+5. Smartphones have become very popular. Most smart phones use map applications. Therefore, GPS or Beidou positioning systems are always turned on to analyze user travel data so that it can predict population migration between different cities or within a city group. Travel situation, such as traffic adjustment during the Spring Festival. The map provider will analyze these data for big data analysis, which can analyze real-time road traffic congestion conditions, travel flow trends, or the concentration of people in specific areas.
+
+Under the current technological conditions and development level, the application of big data in traffic mainly includes the following methods:
+
+1, cordon charges:
+
+In order to reduce the demand for vehicle travel and reduce congestion, cross-regional travel activities are frequently used methods. The method is that when the driver wants to pass or enter an area, he must pay a certain amount of fees by phone, Internet, mobile phone or text message. When the vehicle wants to enter or is already in the blocked area, the camera will recognize its license plate number. If the car is indeed prepaid, it is allowed to enter the area and charges are charged; if the car does not have an advance payment, it will be fined.
+
+2. Traffic Control Center and Urban Traffic Control:
+
+The traditional control center for traffic signal control has gradually become a control center for coordinating and inducing vehicle travel and releasing road network data. Roads, transportation, transit, public security, and emergency services may all use this control center or establish specialized centers that have data links with each other. This can better manage the road network and reduce the loss of traffic accidents and establish a control and supervision center. Such as: Beijing, Sydney and Singapore.
+
+3. Provide travelers with planning and implementation information for multiple travel modes:
+
+In order to help the traveler to make the ideal travel decision, and make the public transportation more smooth. Various public transportation systems exchange information with each other. In order to formulate travel plans, various transportation modes share travel timetables and routes. Real-time information is shared at each system connection point and published to passengers.
+
+4, public transport real-time information:
+
+The real-time passenger information service is designed to improve the reliability of public transportation services and thus improve the service level of public transportation. Buses use GPS and odometers to determine their location on the route. Location information is transmitted to sensors in the control center via wireless communication devices such as GPRS. The central control system compares the actual position of the bus with the expected position and calculates the delay time of the bus. These delayed (advanced) time information will be posted to other sites along the route. The arrival time can be displayed on the sites information release board and can be sent directly to the passenger via SMS or Internet. In order to make the delayed buses recover their time, it may be possible to obtain a longer green time by adjusting the time of traffic lights in real time.
+
+5, security and security system
+
+The safety and security system is used to send warning signals to the driver when there are special road conditions to reduce accidents. The system uses a series of roadside sensors to detect the environment and uses wireless communication equipment to send the detected data back to the central processing system. The central processing system will determine the opening and closing of the road section, the contents of the maximum speed limit and the prompt information, and provide this information to the users of the road. CCTV monitoring systems can be used to enhance the monitoring of speed limits and help operators to confirm environmental and traffic conditions. These devices can also detect wind, snow, fog, and driving conditions. The center system sets the highest speed on this road to suit the environment at that time. The variable speed limit flag is used to display the currently allowed maximum speed, and the speed monitoring camera also adjusts the monitored maximum speed accordingly.
+
+6. Closed-circuit television monitoring system for bus and train station monitoring:
+
+Staff in the central control room use CCTV systems and advanced communication tools to monitor public places and maintain contact with police stations and emergency services. The staff of the control center can release information to passengers and ask if they need help. Emergency call is a very representative tool that can help passengers make requests for help. This provides centralized monitoring of buses and train stations (or other public places) and provides support and emergency assistance when needed, which is especially valuable for sites without staff.
+
+7. Intelligent Transportation System
+
+The Intelligent Transportation System (ITS) is short for ITS. It integrates the use of modern access technology, information technology and computer technology, navigation and positioning technology, and image analysis technology to organically combine people, vehicles, roads, and the environment that are involved in the transportation system. It is to exert its intelligence to make the traffic system intelligent, and to achieve better safety, smoothness, low pollution, and low energy consumption.
